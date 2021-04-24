@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/codingplateforms",
+        "prod_uri":"mysql://root:@localhost/codingplateforms",
+        "fb_url": "https://facebook.com/codingplateforms",
+        "tw_url": "https://twitter.com/codingplateforms",
+        "gh_url": "https://github.com/codingplateforms",
+        "blog_name": "Bloging Book",
+        "tag_line": "How To Change The World: A practical blog for impractical people.",
+        "gmail-user": "agarwalji2608@gmail.com",
+        "gmail-password": "keshav2608@20",
+        "about_text": "Hi my name is keshav and I create programming tutorials and I am a good boy",
+        "no_of_posts": 2,
+        "login_image": "dblogo.jpg",
+        "admin_user": "keshav",
+        "admin_password": "keshav2602",
+        "upload_location":"C:\\Users\\HP\\PycharmProjects\\flask\\static"
+    }
+}
